@@ -1,0 +1,26 @@
+{
+  "_comment": "OpenClaw Desktop Client - Development Configuration",
+  "_description": "Config for software development with full tool access",
+  
+  "gatewayHost": "your-gateway.com",
+  "gatewayPort": 18789,
+  "gatewayTls": false,
+  "gatewayToken": "your-token-here",
+  "displayName": "DevMachine",
+  
+  "enableShell": true,
+  
+  "allowedCommands": [
+    "ls", "dir", "pwd", "cat", "type", "head", "tail", "wc", "find", "tree",
+    "echo", "grep", "sed", "awk", "sort", "uniq", "cut", "tr",
+    "node", "npm", "npx", "yarn", "pnpm", "bun",
+    "git", "gh",
+    "python", "python3", "pip", "pip3",
+    "gcc", "g++", "make", "cmake",
+    "docker", "docker-compose",
+    "whoami", "hostname", "date", "uptime", "free", "df", "du",
+    "ps", "top", "htop", "uname", "env",
+    "curl", "wget",
+    "tar", "zip", "unzip", "gzip", "gunzip"
+  ]
+}

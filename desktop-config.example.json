@@ -1,0 +1,16 @@
+{
+  "_comment": "OpenClaw Desktop Client - Example Configuration",
+  "_description": "Copy this file to ~/.openclaw/desktop-config.json and edit",
+  
+  "gatewayHost": "your-gateway.com",
+  "gatewayPort": 18789,
+  "gatewayTls": false,
+  "gatewayToken": "your-token-here",
+  "displayName": "MyPC",
+  
+  "enableShell": true,
+  
+  "allowedCommands": [
+    "ls", "cat", "grep", "git", "node", "npm"
+  ]
+}

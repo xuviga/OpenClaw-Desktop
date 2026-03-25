@@ -1,0 +1,18 @@
+{
+  "_comment": "OpenClaw Desktop Client - Production Configuration",
+  "_description": "Config for production use with minimal access and TLS",
+  
+  "gatewayHost": "gateway.company.com",
+  "gatewayPort": 443,
+  "gatewayTls": true,
+  "gatewayToken": "your-token-here",
+  "displayName": "ProductionNode",
+  
+  "enableShell": true,
+  
+  "allowedCommands": [
+    "ls", "cat", "grep", "tail", "head",
+    "whoami", "hostname", "date", "uptime",
+    "ps", "df", "free"
+  ]
+}

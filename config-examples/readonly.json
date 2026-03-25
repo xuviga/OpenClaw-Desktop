@@ -1,0 +1,13 @@
+{
+  "_comment": "OpenClaw Desktop Client - Read-Only Configuration",
+  "_description": "Config for remote monitoring/support WITHOUT shell access",
+  
+  "gatewayHost": "your-gateway.com",
+  "gatewayPort": 18789,
+  "gatewayTls": true,
+  "gatewayToken": "your-token-here",
+  "displayName": "SupportMachine",
+  
+  "enableShell": false,
+  "allowedCommands": []
+}
