@@ -1,28 +1,29 @@
 # OpenClaw Desktop Client
 
-✅ **SECURE** standalone клиент для удалённого управления ПК через OpenClaw Gateway.
+<div align="center">
 
-**Version:** 2.0.0 (Security Hardened)
-**Updated:** 2026-03-25
-**Platforms:** Windows, Linux, macOS
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/xuviga/OpenClaw-Desktop/releases)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/xuviga/OpenClaw-Desktop)
+[![Security](https://img.shields.io/badge/security-hardened-brightgreen.svg)](./SECURITY.md)
+[![Node](https://img.shields.io/badge/node-%3E%3D22.0.0-brightgreen.svg)](https://nodejs.org)
+
+**Secure standalone клиент для удалённого управления ПК через OpenClaw Gateway**
+
+[Features](#-особенности) • [Installation](#-установка) • [Documentation](#-документация) • [Roadmap](./ROADMAP.md) • [Contributing](./CONTRIBUTING.md)
+
+</div>
 
 ---
 
-## 📋 Содержание
+## 📚 Documentation
 
-- [Особенности](#особенности)
-- [Безопасность](#безопасность)
-- [Установка](#установка)
-  - [Windows](#windows)
-  - [Linux](#linux)
-  - [macOS](#macos)
-- [Конфигурация](#конфигурация)
-- [Использование](#использование)
-- [Команды](#команды)
-- [Примеры](#примеры)
-- [Troubleshooting](#troubleshooting)
-- [API](#api)
-- [Разработка](#разработка)
+- **[README.md](./README.md)** - This file (complete guide)
+- **[SECURITY.md](./SECURITY.md)** - Security documentation
+- **[QUICKSTART.md](./QUICKSTART.md)** - Quick start guide
+- **[ROADMAP.md](./ROADMAP.md)** - Development roadmap
+- **[CHANGELOG.md](./CHANGELOG.md)** - Version history
+- **[CONTRIBUTING.md](./CONTRIBUTING.md)** - Contribution guide
 
 ---
 
@@ -527,3 +528,23 @@ MIT
 ---
 
 **Made with ❤️ by OpenClaw Team**
+
+---
+
+## 🔗 Quick Links
+
+- **📦 Download:** [GitHub Releases](https://github.com/xuviga/OpenClaw-Desktop/releases)
+- **📖 Documentation:** [Full Docs](./README.md) | [Security](./SECURITY.md) | [Quick Start](./QUICKSTART.md)
+- **🗺️ Roadmap:** [Development Plan](./ROADMAP.md)
+- **📝 Changelog:** [Version History](./CHANGELOG.md)
+- **🤝 Contributing:** [Contribution Guide](./CONTRIBUTING.md)
+- **💬 Community:** [Discord](https://discord.com/invite/clawd) | [GitHub Issues](https://github.com/xuviga/OpenClaw-Desktop/issues)
+- **📧 Support:** support@openclaw.ai
+
+---
+
+<div align="center">
+
+**[⬆ Back to Top](#openclaw-desktop-client)**
+
+</div>
